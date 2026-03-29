@@ -1,0 +1,34 @@
+# Base Sessions
+
+- GWT
+- FastAPI
+- nano-model
+- selective search 
+- ONNX
+- cursuve(kershof?) dimentionality
+- Docker
+- micro-service
+- RabbitMQ
+- kafka
+- production stuff
+
+## For CV projects
+- MediaPipe
+  - Official MediaPipe docs and Python quickstart (free on Google Developers site)
+  - Tutorials: "Hand Tracking with MediaPipe" on YouTube (e.g., by Murtaza's Workshop or freeCodeCamp)
+  - machine learning (ML)-based tracking
+  - Gesture recognition
+  - Real-time video processing
+
+
+- TouchDesigner
+  - Node-based workflows
+  - Integrating CV data
+  - Particle systems and simulations
+  - UI building(radial menus)
+  - Real-time rendering
+  - Official tutorials on Derivative.ca (start with "Beginner" series)
+  - YouTube: "TouchDesigner for Beginners" by Bileam Tschepe or The Interactive & Immersive HQ.
+
+- OSC
+- 

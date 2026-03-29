@@ -1,0 +1,2 @@
+- SVD: divide the big matrix to mini matrices so that it won't be huge sparse matrix with lots of zeros
+- A => U(AVt/sigma), Vt(eigen vector), M()
